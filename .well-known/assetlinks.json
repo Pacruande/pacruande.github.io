@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.blosbi.app",
+    "sha256_cert_fingerprints": [
+      "C6:F9:22:E0:B3:DE:C4:CA:B8:B4:4F:87:2F:8B:33:A0:1C:00:98:C3:96:46:54:C0:EB:7D:B6:57:D9:6C:B7:E1"
+    ]
+  }
+}]
