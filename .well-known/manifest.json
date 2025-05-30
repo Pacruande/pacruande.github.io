@@ -1,8 +1,8 @@
 {
   "name": "Blosbi",
   "short_name": "Blosbi",
-  "start_url": "https://app.blosbi.com/",
-  "scope": "https://app.blosbi.com/",
+  "start_url": "https://link.blosbi.com/",
+  "scope": "https://link.blosbi.com/",
   "display": "fullscreen",
   "orientation": "portrait",
   "background_color": "#000000",
